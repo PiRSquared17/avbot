@@ -7,12 +7,12 @@ It has been working in [http://es.wikipedia.org/wiki/Usuario:AVBOT Spanish Wikip
   * Regular expressions using scores
 
 == Download ==
-You can download the source code from our [http://code.google.com/p/avbot/source/browse/#svn%2Ftrunk SVN repository].
+You can download the *source code* from our [http://code.google.com/p/avbot/source/browse/#svn%2Ftrunk SVN repository].
 
-In the [http://code.google.com/p/avbot/downloads/list downloads section] you can find a manual and other useful texts about AVBOT. There is also a blog at [http://avbot.blogspot.com avbot.blogspot.com].
+In the [http://code.google.com/p/avbot/downloads/list downloads section] you can find a *manual* and other useful texts about AVBOT. There is also a *blog* at [http://avbot.blogspot.com avbot.blogspot.com].
 
 == Contribute ==
-If you want to send any message, reach me at emijrp@gmail.com
+If you want to send any *suggestion*, reach me at emijrp@gmail.com. For *bugs*, you can use the [http://code.google.com/p/avbot/issues/list issues] section.
 
 <table width=99%>
 <tr><td align=center>
