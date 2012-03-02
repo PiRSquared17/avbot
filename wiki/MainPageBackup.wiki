@@ -12,7 +12,7 @@ You can download the source code from our [http://code.google.com/p/avbot/source
 In the [http://code.google.com/p/avbot/downloads/list downloads section] you can find a manual and other useful texts about AVBOT. There is also a blog at [http://avbot.blogspot.com avbot.blogspot.com].
 
 == Contribute ==
-If you can send any message, contact me at emijrp@gmail.com
+If you want to send any message, reach me at emijrp@gmail.com
 
 <table width=99%>
 <tr><td align=center>
