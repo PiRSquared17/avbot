@@ -1,5 +1,5 @@
 == What is AVBOT? ==
-*AVBOT* is an anti-vandalism bot for MediaWiki wikis. It is developed in [http://www.python.org Python], using [http://pywikipediabot.sourceforge.net pywikipediabot] and [http://python-irclib.sourceforge.net irclib].
+*AVBOT* is an anti-vandalism bot for MediaWiki wikis. It is developed by [https://sites.google.com/site/emijrp/ emijrp] in [http://www.python.org Python], using [http://pywikipediabot.sourceforge.net pywikipediabot] and [http://python-irclib.sourceforge.net irclib].
 
 It has been working in [http://es.wikipedia.org/wiki/Usuario:AVBOT Spanish Wikipedia] from 2008, and it has several clones managed by other users.
 
@@ -9,6 +9,7 @@ It has been working in [http://es.wikipedia.org/wiki/Usuario:AVBOT Spanish Wikip
 == Download ==
 You can download the *source code* from our [http://code.google.com/p/avbot/source/browse/#svn%2Ftrunk SVN repository].
 
+== Documentation ==
 In the [http://code.google.com/p/avbot/downloads/list downloads section] you can find a *manual* and other useful texts about AVBOT. There is also a *blog* at [http://avbot.blogspot.com avbot.blogspot.com].
 
 == Contribute ==
