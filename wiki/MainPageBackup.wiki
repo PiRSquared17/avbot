@@ -17,10 +17,17 @@ You can download the *source code* from our [http://code.google.com/p/avbot/sour
 == Documentation ==
 In the [http://code.google.com/p/avbot/downloads/list downloads section] you can find a *manual* and other useful texts about AVBOT. There is also a *blog* at [http://avbot.blogspot.com avbot.blogspot.com].
 
+== Publications ==
+
+There are two main publications regarding AVBOT:
+
+  * «[https://code.google.com/p/avbot/downloads/detail?name=III_2011_rodriguez1.pdf AVBOT: Detecting and fixing Vandalism in Wikipedia]». UPGRADE, Volume: 2011, Issue No. 3, July 2011.
+  * «[https://code.google.com/p/avbot/downloads/detail?name=Rodriguez-nov203-vdef.pdf AVBOT: detección y corrección de vandalismos en Wikipedia]». NovATIca, núm. 203, 2010, pp. 51-53.
+
 <a href="http://commons.wikimedia.org/wiki/File:Avbot_hasta_nov.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Avbot_hasta_nov.svg/700px-Avbot_hasta_nov.svg.png" alt="Spanish Wikipedia vandalism edits reverted by AVBOT per day during 2008" title="Spanish Wikipedia vandalism edits reverted by AVBOT per day during 2008"/></a>
 
 == Contribute ==
-If you want to send any *suggestion*, reach me at emijrp@gmail.com. For *bugs*, you can use the [http://code.google.com/p/avbot/issues/list issues] section. Thanks.
+If you want to send any *suggestion*, reach me at [mailto:emijrp@gmail.com emijrp@gmail.com]. For *bugs*, you can use the [http://code.google.com/p/avbot/issues/list issues] section. Thanks.
 
 <table width=99%>
 <tr><td align=center>
