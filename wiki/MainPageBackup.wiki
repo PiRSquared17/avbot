@@ -10,6 +10,7 @@ AVBOT has been working in [http://es.wikipedia.org/wiki/Usuario:AVBOT Spanish Wi
   * Blanking edits detector
   * Non-notable biographies detector for articles about years
   * Warning messages to vandals
+  * Reporting of repetitive attacks to admins' noticeboard
 
 = Download =
 You can download the *source code* from our [http://code.google.com/p/avbot/source/browse/#svn%2Ftrunk SVN repository].
